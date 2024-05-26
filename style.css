@@ -78,7 +78,7 @@ h1 {
 }
 .social {
     display: block;
-    width: 30px;
+    width: 50px;
     margin:  0px 0px 20px 25px;
 }
 
@@ -117,7 +117,7 @@ aside {
     background-color: #3c0470;
     border-radius: 10px;
     width: 90px;
-    height: 250px;
+    height: 390px;
     padding: 20px;
 }
 
